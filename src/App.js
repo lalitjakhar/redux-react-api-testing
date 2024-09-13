@@ -2,7 +2,7 @@ import "./App.css";
 import { Provider } from "react-redux";
 import store from "./Redux/Product/store";
 import Imggallery from "./Component/Imggallery";
-import Product from "./Component/ProductContainer";
+import ProductContainer from "./Component/Productcontainer";
 
 function App() {
   return (
